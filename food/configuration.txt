@@ -1,0 +1,16 @@
+database file
+pro3/connection.php
+
+database username:root
+database password :947539
+database filename:localhost.sql
+
+admin
+
+username :admin
+
+password :admin@123
+
+link:-
+http://localhost/pro3/admin.php
+
